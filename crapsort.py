@@ -25,4 +25,5 @@ def sort(data):
     return(data)
 
 #somenumbers = [0,1,2,3,5,4,]
-#sort(somenumbers)
+#sort(somenumbers)s
+input ()
